@@ -1,7 +1,4 @@
-# Desynest — Next.js + TypeScript Template
-
-> **Scroll. Save. Create.**  
-> The all-in-one mobile-first creative platform.
+# Desynest. Next.js + TypeScript Template
 
 ---
 
