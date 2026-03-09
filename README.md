@@ -1,7 +1,5 @@
 # Desynest. Next.js + TypeScript Template
 
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -108,6 +106,4 @@ npm run type-check   # TypeScript check
 - [ ] Add `next-i18next` for localization
 - [ ] Set up AI feature endpoints
 
----
 
-Built with ❤️ by the **Desynest Team**
