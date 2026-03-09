@@ -25,7 +25,7 @@ export function Hero() {
         <div className="flex justify-center mb-8 animate-fade-in">
           <Badge variant="primary" className="gap-2">
             <Sparkles size={12} />
-            Now in Early Access — Join the waitlist
+            Now in Early Access Join the waitlist
           </Badge>
         </div>
 
@@ -43,9 +43,9 @@ export function Hero() {
 
         {/* Description */}
         <p className="text-white/60 text-base md:text-lg max-w-2xl mx-auto mb-10 font-body leading-relaxed animate-slide-up" style={{ animationDelay: "0.15s" }}>
-          The all-in-one creative platform for mobile-first creators. Discover
+          The all-in-one creative platform for mobile- first creators. Discover
           inspiration, design in seconds with AI, and share with your community
-          — all without switching apps.
+          all without switching apps.
         </p>
 
         {/* CTAs */}
@@ -81,7 +81,7 @@ export function Hero() {
         </div>
 
         {/* Floating mock cards */}
-        <div className="relative mt-20 mx-auto max-w-3xl h-48 hidden md:block">
+        {/* <div className="relative mt-20 mx-auto max-w-3xl h-48 hidden md:block">
           <div className="absolute left-0 top-4 w-36 h-44 rounded-2xl glass border border-brand-500/20 glow-primary animate-float rotate-[-8deg] overflow-hidden">
             <div className="w-full h-full bg-gradient-to-br from-brand-600/30 to-accent-violet/20 flex items-end p-3">
               <span className="text-xs text-white/60 font-display">Festival Flyer</span>
@@ -97,7 +97,7 @@ export function Hero() {
               <span className="text-xs text-white/60 font-display">Brand Kit</span>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

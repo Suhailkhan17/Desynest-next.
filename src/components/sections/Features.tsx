@@ -86,8 +86,8 @@ export function Features() {
             <span className="text-gradient">Nothing they don&apos;t.</span>
           </h2>
           <p className="text-white/50 max-w-xl mx-auto text-base leading-relaxed">
-            We took what was best from Pinterest, Canva, and CapCut — then
-            rebuilt it for the mobile-first generation.
+            We took what was best from Pinterest, Canva, and CapCut then
+            rebuilt it for the mobile first generation.
           </p>
         </div>
 

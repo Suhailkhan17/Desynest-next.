@@ -1,16 +1,16 @@
 import { Check, X } from "lucide-react";
 
 const competitors = [
-  { name: "Pinterest", weakness: "Passive — can't edit or remix" },
-  { name: "Canva", weakness: "Overcrowded, generic, paywall-heavy" },
-  { name: "CapCut", weakness: "Video-only, not professional" },
+  { name: "Pinterest", weakness: "Passive can not edit or remix" },
+  { name: "Canva", weakness: "Overcrowded, generic, paywall heavy" },
+  { name: "CapCut", weakness: "Video only, not professional" },
   { name: "Figma", weakness: "Too complex for casual creators" },
 ];
 
 const desynestFeatures = [
   "Scroll + Save + Create in one app",
   "AI-powered, fresh templates",
-  "Mobile-first & offline-ready",
+  "Mobile-first and offline-ready",
   "Localized cultural design packs",
   "Community + Creator marketplace",
   "3–5 tap micro-creation flow",
